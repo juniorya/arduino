@@ -1,4 +1,3 @@
-
 struct {
   char key;
   char *name;
