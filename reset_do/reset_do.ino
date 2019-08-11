@@ -1,3 +1,4 @@
+#include <Arduino.h>
 struct {
   char key;
   char *name;
